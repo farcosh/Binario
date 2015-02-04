@@ -1,2 +1,4 @@
 # Binario
-Programa de la clase "Modelado y programación" de la facultado de ciencias 
+José Manuel Chávez Pavón
+David Saulés Rojas
+Servando Ramírez Ramírez
